@@ -1,0 +1,35 @@
+html {
+    background-color: #ccd8ff;
+  }
+  
+  body {
+    background-color:
+    color: #000;
+    text-align:center;
+      
+  }
+  
+  #title {
+    color:#000;
+    font-family:verdana;
+    text-align:center;
+    margin:10 5px 10 5px;
+    font-size:25px;
+  
+  }
+  
+  h2{
+    font-size:15px
+  }
+  #main{
+    
+  }
+  
+  #img-caption{
+    
+  }
+  #image{
+    width:auto;
+    Height:auto;
+    border-radius:10px;
+   }
